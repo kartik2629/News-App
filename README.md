@@ -22,7 +22,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/kartik2629/News-Android-App.git
+gh repo clone kartik2629/News-App
 Open the Project:
 
 Import the project into Android Studio.
