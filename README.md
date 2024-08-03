@@ -14,11 +14,6 @@ Retrofit: For making API calls and parsing JSON responses.
 RecyclerView: For efficiently displaying a list of items.
 Glide: For image loading and caching.
 Vector Drawables: For scalable and resolution-independent icons.
-Screenshots
-
-![4](https://github.com/user-attachments/assets/807e7597-0cfa-4d6e-9534-ec2d8673931d)
-
-
 
 Getting Started
 To get started with this project:
