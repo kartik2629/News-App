@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258241525748",
+    "project_id": "daily-shots-app",
+    "storage_bucket": "daily-shots-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258241525748:android:df67cc29ed0ba33fb9aba1",
+        "android_client_info": {
+          "package_name": "com.kartik.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBufPWqBP52V2sFDZAxNJrQUtNthzVRKws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
