@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
     ArrayList<MyModel> articles;
     MyAdapter adapter;
-    public static final String API_KEY = "8aca8173070b4af99af70ae656e16f1e";
+    public static final String API_KEY = "[ PASTE YOUR API KEY ]";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
